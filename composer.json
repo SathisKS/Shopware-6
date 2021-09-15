@@ -1,5 +1,5 @@
 {
-    "name": "novalnet/novalnet-payment",
+    "name": "SathisKS/novalnet-payment",
     "description": "PCI Compliant, seamless integration with the various types of payment and payment-related services integrated into one unique platform",
     "version": "v12.1.3",
     "type": "shopware-platform-plugin",
